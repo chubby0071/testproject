@@ -1,0 +1,68 @@
+[
+  {
+    "source": "^I am on the 'signin' page$",
+    "flags": "",
+    "file_colon_line": "features/signin_page/step_definitions/signin_steps.rb:8",
+    "steps": [
+      {
+        "name": "I am on the 'signin' page",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I am able to verify detail of element in login Page$",
+    "flags": "",
+    "file_colon_line": "features/signin_page/step_definitions/signin_steps.rb:17",
+    "steps": [
+      {
+        "name": "I am able to verify detail of element in login Page",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I am redirected to the 'login' page$",
+    "flags": "",
+    "file_colon_line": "features/signin_page/step_definitions/signin_steps.rb:24",
+    "steps": [
+
+    ]
+  },
+  {
+    "source": "^I enter the username \"(.*?)\"$",
+    "flags": "",
+    "file_colon_line": "features/signin_page/step_definitions/signin_steps.rb:36",
+    "steps": [
+
+    ]
+  },
+  {
+    "source": "^I enter the password \"(.*?)\"$",
+    "flags": "",
+    "file_colon_line": "features/signin_page/step_definitions/signin_steps.rb:40",
+    "steps": [
+
+    ]
+  },
+  {
+    "source": "^I click the \"(.*?)\" button$",
+    "flags": "",
+    "file_colon_line": "features/signin_page/step_definitions/signin_steps.rb:44",
+    "steps": [
+
+    ]
+  },
+  {
+    "source": "^an error\\-box is displayed: \"(.*?)\"$",
+    "flags": "",
+    "file_colon_line": "features/signin_page/step_definitions/signin_steps.rb:53",
+    "steps": [
+
+    ]
+  }
+]
